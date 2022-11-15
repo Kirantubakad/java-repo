@@ -1,7 +1,7 @@
 #!/bin/bash
-echo "enter the any number between 1- 100"
-read num
-n=$num
+#echo "enter the any number between 1- 100"
+#read num
+n=$1
 
  while [ $n -le 100 ]
  do
